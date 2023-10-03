@@ -1,0 +1,34 @@
+{
+  "name": "gruvbox-darks",
+  "displayName": "gruvbox-darks",
+  "description": "thema-dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Extension CodiGo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Extension CodiGo-color-theme.json"
+      }
+    ]
+  },
+
+
+  "icon": "icons/gruvbox-dark.png"
+  "author": {
+    "name": "Lizandro castillo",
+    "email": "liiiizandrocastillo@gmail.com",
+    "url": "https://wwww.linkedin.com/in/lizandro-castillo-b03986270"
+  },
+  "repository": {
+    "url": "https://github.com/lilzandro/Extensionthe-vscode.git",
+    "type": "git"
+  },
+  "publisher": "lil-zandro"
+}
